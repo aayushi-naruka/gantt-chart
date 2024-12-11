@@ -37,6 +37,7 @@ const GanttChart = ({ tasks }) => {
     <div>
       <h2>Gantt Chart</h2>
       <Chart
+        className='chart-width'
         chartType="Gantt"
         data={chartData}
         options={options}

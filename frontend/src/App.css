@@ -68,3 +68,7 @@ button {
 .title-input {
   width: 198px;
 }
+
+.chart-width {
+  width: 100vw!important;
+}
